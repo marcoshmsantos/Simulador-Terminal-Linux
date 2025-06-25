@@ -12,9 +12,9 @@ Além da simulação, o projeto inclui:
 Simulação de comandos: interface de linha de comando para manipulação do sistema de arquivos.
 Estrutura de dados eficiente: uso de uma B+Tree para garantir operações de busca, inserção e remoção com complexidade logarítmica.
 # Comandos Suportados:
-- mkdir <nome_diretorio>: Cria um novo diretório.
-- touch <nome_arquivo>: Cria um novo arquivo vazio.
-- ls: Lista o conteúdo do diretório atual.
-- cd <caminho>: Navega para um diretório específico.
-- cd ..: Retorna ao diretório pai.
-- rm <nome>: Remove um arquivo ou diretório vazio
+- mkdir <nome_diretorio>: cria um novo diretório.
+- touch <nome_arquivo>: cria um novo arquivo vazio.
+- ls: lista o conteúdo do diretório atual.
+- cd <caminho>: navega para um diretório específico.
+- cd ..: retorna ao diretório pai.
+- rm <nome>: remove um arquivo ou diretório vazio.
