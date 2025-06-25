@@ -10,6 +10,7 @@ Além da simulação, o projeto inclui:
 2. Um visualizador gráfico que renderiza a estrutura do sistema de arquivos em um canvas, oferecendo uma representação intuitiva da árvore de diretórios e arquivos.
 # Funcionalidades
 Simulação de Comandos: Interface de linha de comando para manipulação do sistema de arquivos.
+
 Estrutura de Dados Eficiente: Uso de uma B+Tree para garantir operações de busca, inserção e remoção com complexidade logarítmica (O(log_m(n))).
 # Comandos Suportados:
 - mkdir <nome_diretorio>: Cria um novo diretório.
