@@ -9,9 +9,8 @@ Além da simulação, o projeto inclui:
 1. Um script de benchmark para avaliar o desempenho das operações básicas e comparar os resultados práticos com a complexidade teórica esperada da B+Tree.
 2. Um visualizador gráfico que renderiza a estrutura do sistema de arquivos em um canvas, oferecendo uma representação intuitiva da árvore de diretórios e arquivos.
 # Funcionalidades
-Simulação de Comandos: Interface de linha de comando para manipulação do sistema de arquivos.
-
-Estrutura de Dados Eficiente: Uso de uma B+Tree para garantir operações de busca, inserção e remoção com complexidade logarítmica (O(log_m(n))).
+Simulação de comandos: Interface de linha de comando para manipulação do sistema de arquivos.
+Estrutura de dados eficiente: Uso de uma B+Tree para garantir operações de busca, inserção e remoção com complexidade logarítmica.
 # Comandos Suportados:
 - mkdir <nome_diretorio>: Cria um novo diretório.
 - touch <nome_arquivo>: Cria um novo arquivo vazio.
